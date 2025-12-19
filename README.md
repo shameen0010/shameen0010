@@ -123,14 +123,6 @@ const shameen = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shameen0010&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
